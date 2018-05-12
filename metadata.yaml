@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '37360'
     url: http://www.gutenberg.org/2009/agents/37360
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16160#The-Treasury-of-Ancient-EgyptMiscellaneous-Chapters-on-Ancient-Egyptian-History-and-Archaeolo_
 gutenberg_bookshelf:
 - Egypt
 - Children's History
