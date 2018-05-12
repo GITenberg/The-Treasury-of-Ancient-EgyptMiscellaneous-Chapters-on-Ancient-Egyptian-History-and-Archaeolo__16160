@@ -1,0 +1,35 @@
+_repo: The-Treasury-of-Ancient-EgyptMiscellaneous-Chapters-on-Ancient-Egyptian-History-and-Archaeolo__16160
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Weigall, Arthur E. P. Brome (Arthur Edward Pearse Brome)
+    aliases:
+    - Weigall, Arthur Edward Pearse Brome
+    - Weigall, Arthur
+    birthdate: 1880
+    deathdate: 1934
+    gutenberg_agent_id: '37360'
+    url: http://www.gutenberg.org/2009/agents/37360
+description: ''
+gutenberg_bookshelf:
+- Egypt
+- Children's History
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16160'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Archaeology'
+- !lcsh 'Egypt -- Antiquities'
+- !lcc 'DT'
+title: 'The Treasury of Ancient Egypt
+
+  Miscellaneous Chapters on Ancient Egyptian History and Archaeology'
+url: http://www.gutenberg.org/ebooks/16160
